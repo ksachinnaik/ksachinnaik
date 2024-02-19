@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ksachinnaik
-- 👀 I’m interested in Web Development and Competetive Coding
+- 👀 I’m interested in Web Development and Competetive Programming
 - 🌱 I’m currently upskilling DSA
 - 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/k-sachin-naik-aab6a2202)
